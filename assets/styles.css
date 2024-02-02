@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 30px;
+    padding: 0;
+}
+
+    header {
+        background-color:#ffcc00;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        border-radius: 5px;
+    }
+    
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color:whitesmoke;
+    font-size: 60px;
+}
+
+.box {
+    width: 500px; /* Adjust width as needed */
+    margin: 0 auto; /* This centers the box horizontally */
+    padding: 40px; /* Adjust padding as needed */
+    
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffd700; 
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #ffcc00; /* Darker shade of yellow on hover */
+}
